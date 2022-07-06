@@ -1,0 +1,123 @@
+.home {
+    background-image: url(https://meshdesignstudio.com/wp-content/uploads/2018/02/mesh-background-portfolio-lglines.jpg);
+    background-size: cover;
+    height: 900px;
+}
+
+.Aboutme {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.MyInterest {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.Qualification {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.Skills {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.Certificates {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.Contactme {
+    font-size: 40px;
+    color: black;
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding: 14px;
+}
+
+.header {
+    position: relative;
+    top: 150px;
+    font-size: larger;
+    left: 200px;
+}
+
+.image1 {
+    width: 500px;
+    position: relative;
+    top: -200px;
+    left: 1200px;
+    clip-path: circle();
+}
+
+.myinterest2 {
+    background-color: rgb(29, 128, 173);
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+    height: 450px;
+}
+
+.qualification2 {
+    background-color: rgb(29, 128, 173);
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    height: 300px
+}
+
+.Skills2 {
+    background-color: rgb(29, 128, 173);
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    height: 300px
+}
+
+.Certificates2 {
+    background-color: rgb(29, 128, 173);
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    height: 450px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 220px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+}
+
+.contactme2 {
+    background-color: rgb(29, 128, 173);
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    height: 200px;
+}
